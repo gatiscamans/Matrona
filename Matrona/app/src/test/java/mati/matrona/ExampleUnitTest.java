@@ -1,4 +1,4 @@
-package com.example.gatis.matrona;
+package mati.matrona;
 
 import org.junit.Test;
 

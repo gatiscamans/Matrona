@@ -1,4 +1,4 @@
-package com.example.gatis.matrona;
+package mati.matrona;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

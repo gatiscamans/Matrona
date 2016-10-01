@@ -1,4 +1,4 @@
-package com.example.gatis.matrona;
+package mati.matrona;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.gatis.matrona", appContext.getPackageName());
+        assertEquals("mati.matrona", appContext.getPackageName());
     }
 }
